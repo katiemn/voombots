@@ -3,7 +3,7 @@ Voombots Coding Assignment
 
 ## Solution Outline:
 
-* Takes a String input that structured with line breaks
+* Takes a String input that is structured with line breaks
 * The first line is the upper-right coordinates of the room
 * Each bot then has two lines
   - The first line of the two is the bot's starting coordinates
